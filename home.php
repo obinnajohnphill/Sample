@@ -1,11 +1,16 @@
 <?php
-	/*** Important do not change ***/
-	session_start();
-	if(!isset($_SESSION['simple_login'])){
-		header("Location: index.php");
-		exit();
-	}
-	/*** Important END ***/
+    /***
+     * Important do not change
+     ***/
+    session_start();
+if (!isset($_SESSION['simple_login'])) {
+    header('Location: index.php');
+    exit();
+}
+
+    /*
+        * Important END
+*/
 ?>
 
 <!-------- Write you stuff down here -------->

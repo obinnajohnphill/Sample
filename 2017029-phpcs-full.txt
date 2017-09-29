@@ -1,0 +1,83 @@
+
+FILE: C:\apps\php\Sample\css\animate.css
+-------------------------------------------------------------------------------------------------
+FOUND 19 ERRORS AFFECTING 19 LINES
+-------------------------------------------------------------------------------------------------
+ 523 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 528 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 533 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 538 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 543 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 548 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 553 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 558 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 563 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 572 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 577 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 582 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 587 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 592 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 597 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 602 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 607 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 612 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+ 621 | ERROR | Style definitions must end with a semicolon (Squiz.CSS.SemicolonSpacing.NotAtEnd)
+-------------------------------------------------------------------------------------------------
+
+
+FILE: C:\apps\php\Sample\css\bootstrap.min.css
+--------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------------------------
+ 1 | WARNING | File appears to be minified and cannot be processed (Internal.Tokenizer.Exception)
+--------------------------------------------------------------------------------------------------
+
+
+FILE: C:\apps\php\Sample\home.php
+---------------------------------------------------------------------------------------------------------------------------------------
+FOUND 10 ERRORS AND 1 WARNING AFFECTING 3 LINES
+---------------------------------------------------------------------------------------------------------------------------------------
+  4 | WARNING | PHP version not specified (PEAR.Commenting.FileComment.MissingVersion)
+  4 | ERROR   | Missing @category tag in file comment (PEAR.Commenting.FileComment.MissingCategoryTag)
+  4 | ERROR   | Missing @package tag in file comment (PEAR.Commenting.FileComment.MissingPackageTag)
+  4 | ERROR   | Missing @author tag in file comment (PEAR.Commenting.FileComment.MissingAuthorTag)
+  4 | ERROR   | Missing @license tag in file comment (PEAR.Commenting.FileComment.MissingLicenseTag)
+  4 | ERROR   | Missing @link tag in file comment (PEAR.Commenting.FileComment.MissingLinkTag)
+  4 | ERROR   | There must be exactly one blank line after the file comment (Squiz.Commenting.FileComment.SpacingAfterComment)
+  4 | ERROR   | Missing @package tag in file comment (Squiz.Commenting.FileComment.MissingPackageTag)
+  6 | ERROR   | Operator ! prohibited; use === FALSE instead (Squiz.Operators.ComparisonOperatorUsage.NotAllowed)
+ 13 | ERROR   | Last line of comment aligned incorrectly; expected 4 spaces but found 0 (Squiz.Commenting.BlockComment.LastLineIndent)
+ 13 | ERROR   | Empty line required after block comment (Squiz.Commenting.BlockComment.NoEmptyLineAfter)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: C:\apps\php\Sample\index.php
+----------------------------------------------------------------------------------------------------------------------------------
+FOUND 12 ERRORS AND 2 WARNINGS AFFECTING 13 LINES
+----------------------------------------------------------------------------------------------------------------------------------
+  1 | ERROR   | Missing file doc comment (Squiz.Commenting.FileComment.Missing)
+  2 | ERROR   | Missing file doc comment (PEAR.Commenting.FileComment.Missing)
+  3 | ERROR   | Implicit true comparisons prohibited; use === TRUE instead (Squiz.Operators.ComparisonOperatorUsage.ImplicitTrue)
+ 10 | ERROR   | Operator == prohibited; use === instead (Squiz.Operators.ComparisonOperatorUsage.NotAllowed)
+ 10 | ERROR   | Operator == prohibited; use === instead (Squiz.Operators.ComparisonOperatorUsage.NotAllowed)
+ 44 | WARNING | Line longer than 90 characters; contains 93 characters (Generic.Files.LineLength.TooLong)
+ 51 | WARNING | Line longer than 90 characters; contains 94 characters (Generic.Files.LineLength.TooLong)
+ 54 | ERROR   | Line contains 100 chars, which is longer than the max limit of 111 (Generic.Files.LineLength.MaxExceeded)
+ 57 | ERROR   | Line contains 100 chars, which is longer than the max limit of 124 (Generic.Files.LineLength.MaxExceeded)
+ 59 | ERROR   | Line contains 100 chars, which is longer than the max limit of 108 (Generic.Files.LineLength.MaxExceeded)
+ 82 | ERROR   | Line contains 100 chars, which is longer than the max limit of 117 (Generic.Files.LineLength.MaxExceeded)
+ 83 | ERROR   | Line contains 100 chars, which is longer than the max limit of 131 (Generic.Files.LineLength.MaxExceeded)
+ 91 | ERROR   | Line contains 100 chars, which is longer than the max limit of 135 (Generic.Files.LineLength.MaxExceeded)
+ 94 | ERROR   | Line contains 100 chars, which is longer than the max limit of 140 (Generic.Files.LineLength.MaxExceeded)
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: C:\apps\php\Sample\logout.php
+-----------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+-----------------------------------------------------------------------------
+ 1 | ERROR | Missing file doc comment (Squiz.Commenting.FileComment.Missing)
+ 2 | ERROR | Missing file doc comment (PEAR.Commenting.FileComment.Missing)
+-----------------------------------------------------------------------------
+
+

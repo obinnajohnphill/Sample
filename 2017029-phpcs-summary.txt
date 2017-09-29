@@ -1,0 +1,15 @@
+
+PHP CODE SNIFFER REPORT SUMMARY
+----------------------------------------------------------------------
+FILE                                                  ERRORS  WARNINGS
+----------------------------------------------------------------------
+C:\apps\php\Sample\css\animate.css                    19      0
+C:\apps\php\Sample\css\bootstrap.min.css              0       1
+C:\apps\php\Sample\home.php                           10      1
+C:\apps\php\Sample\index.php                          12      2
+C:\apps\php\Sample\logout.php                         2       0
+----------------------------------------------------------------------
+A TOTAL OF 43 ERRORS AND 4 WARNINGS WERE FOUND IN 5 FILES
+----------------------------------------------------------------------
+
+

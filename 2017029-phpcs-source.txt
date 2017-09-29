@@ -1,0 +1,28 @@
+
+PHP CODE SNIFFER VIOLATION SOURCE SUMMARY
+----------------------------------------------------------------------
+SOURCE                                                           COUNT
+----------------------------------------------------------------------
+Squiz.CSS.SemicolonSpacing.NotAtEnd                              19
+Generic.Files.LineLength.MaxExceeded                             7
+Squiz.Operators.ComparisonOperatorUsage.NotAllowed               3
+PEAR.Commenting.FileComment.Missing                              2
+Squiz.Commenting.FileComment.Missing                             2
+Generic.Files.LineLength.TooLong                                 2
+Squiz.Operators.ComparisonOperatorUsage.ImplicitTrue             1
+Squiz.Commenting.BlockComment.NoEmptyLineAfter                   1
+Squiz.Commenting.BlockComment.LastLineIndent                     1
+Internal.Tokenizer.Exception                                     1
+Squiz.Commenting.FileComment.SpacingAfterComment                 1
+PEAR.Commenting.FileComment.MissingLinkTag                       1
+PEAR.Commenting.FileComment.MissingLicenseTag                    1
+PEAR.Commenting.FileComment.MissingAuthorTag                     1
+PEAR.Commenting.FileComment.MissingPackageTag                    1
+PEAR.Commenting.FileComment.MissingCategoryTag                   1
+PEAR.Commenting.FileComment.MissingVersion                       1
+Squiz.Commenting.FileComment.MissingPackageTag                   1
+----------------------------------------------------------------------
+A TOTAL OF 47 SNIFF VIOLATIONS WERE FOUND IN 18 SOURCES
+----------------------------------------------------------------------
+
+
